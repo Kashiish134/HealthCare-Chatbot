@@ -14,11 +14,10 @@
 
 ---
 
-> 🍴 **This repository is a fork** of [Kartik-r/HealthCare-Chatbot](https://github.com/Kartik-r/HealthCare-Chatbot). Full credit for the original project goes to its author. My own changes and contributions are listed in the section below.
 
 ## 📖 Overview
 
-The **Healthcare Chatbot** is a conversational system that helps users with health-related questions. It was developed during a **Machine Learning with Python (research-based) internship at Compsoft Technologies**, and the chatbot is integrated with [DESCRIBE THE INTEGRATION, e.g., the service or API it connects to].
+The **Healthcare Chatbot** is a conversational system that helps users with health-related questions. It was developed during a **Machine Learning with Python (research-based) internship at Compsoft Technologies**
 
 ## 🙋‍♀️ My Contributions
 
